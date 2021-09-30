@@ -20,6 +20,18 @@
 * сумма перевода - 500 000 000, int transferAmount = 500000000
 * итоговое значение currentBalance + transferAmount, int finalValue = 2500000000
 
+Тестовый скрипт
+```java
+public class Main {
+    public static void main(String[] args) {
+        int currentBalance = 2000000000;
+        int transferAmount = 500000000;
+        int finalValue = currentBalance + transferAmount;
+        System.out.println(finalValue);
+    }
+}
+```
+
 Тестирование производилось в следующем окружении:
 * Windows 7 Professional
 * Java 11
