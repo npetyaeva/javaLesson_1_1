@@ -16,9 +16,9 @@
 * Тестовый скрипт
 
 В качестве тестовых данных использовались данные, [источник](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer):
-* текущий баланс счёта клиента - 2 000 000 000, int currentBalance = 2000000000 
-* сумма перевода - 500 000 000, int transferAmount = 500000000
-* итоговое значение currentBalance + transferAmount, int finalValue = 2500000000
+* текущий баланс счёта клиента - 2 000 000 000, int currentBalance = 2_000_000_000 
+* сумма перевода - 500 000 000, int transferAmount = 500_000_000
+* итоговое значение currentBalance + transferAmount, int finalValue = 2_500_000_000
 
 Тестовый скрипт
 ```java
