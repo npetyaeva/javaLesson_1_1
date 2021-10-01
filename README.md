@@ -35,3 +35,4 @@ public class Main {
 Тестирование производилось в следующем окружении:
 * Windows 7 Professional
 * Java 11
+* IntelliJ IDEA Community
