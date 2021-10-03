@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.4
 
 В результате тестирования выявлены следующие дефекты:
-* [https://github.com/npetyaeva/javaLesson_1_1/issues/1](https://github.com/npetyaeva/javaLesson_1_1/issues/1)
+* [Issue](https://github.com/npetyaeva/javaLesson_1_1/issues/1)
 
 ## Описание процесса тестирования
 
